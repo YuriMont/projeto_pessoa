@@ -41,7 +41,7 @@ Uma Pessoa deve ter os seguintes campos:
     • Nome <br>
     • Data de nascimento <br>
     • Endereço: <br>
-    {
+    { <br>
             ◦ Logradouro <br>
             ◦ CEP <br>
             ◦ Número <br>
